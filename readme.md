@@ -13,13 +13,12 @@ These instructions will help you set up and run the project on your local machin
 
 ### Installing
 
-1. **Clone the repository**
+**Clone the repository**
 
-   ```shell
-   git clone <repository-url>
-   cd event_system
+   git clone https://github.com/Viktoraspr/consumer_propagator
+   cd consumer_propagator
 
-2**Install dependencies**
+**Install dependencies**
 
    poetry install
 
@@ -30,7 +29,7 @@ Needs to run in different terminals.
 make run-consumer
 make run-propagator
    
-### Config
+### Config files
 
 Consumer: consumer/consumer_config.py
 Propagator: propagator/propagator.py
