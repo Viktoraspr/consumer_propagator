@@ -37,4 +37,4 @@ make run-propagator
 
 Consumer: consumer/consumer_config.py
 
-Propagator: propagator/propagator.py
+Propagator: propagator/propagator_config.py
